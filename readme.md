@@ -1,6 +1,6 @@
 # Mida Restaurant
 
-## Responive Website
+## Responsive Website
 
 Used technologies:
 
