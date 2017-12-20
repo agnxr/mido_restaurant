@@ -1,4 +1,4 @@
-# Mida Restaurant
+# Mido Restaurant
 
 ## Responsive Website
 
