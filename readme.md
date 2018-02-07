@@ -2,7 +2,7 @@
 
 ## Responsive Website
 
-Used technologies:
+Technologies used:
 
 * HTML5,
 * CSS3,
