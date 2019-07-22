@@ -1,12 +1,10 @@
 # Mido Restaurant
 
-## Responsive Website
+## CSS Parallax Scrolling Effect
 
 Technologies used:
 
-* HTML5,
-* CSS3,
-* RWD (media queries).
+* HTML5 & CSS3
 
 Demo: https://agnxr.github.io/mido_restaurant/
 
